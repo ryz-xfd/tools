@@ -1,0 +1,3 @@
+Một công cụ lấy văn bản,liên kết hình ảnh từ website 
+Note :
+tools chỉ hoạt động tốt khi liên kết webiste đó là html
