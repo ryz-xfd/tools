@@ -1,2 +1,5 @@
+https://www.python.org/downloads/
 
-https://easyupload.io/bdkra5
+pip install pyinstaller
+
+pyinstaller --onefile --windowed viruskid.py
